@@ -1,0 +1,23 @@
+# Data + EDA + classical baseline and experiments
+kagglehub
+kaggle
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+nltk
+joblib
+tqdm
+jupyter
+ipywidgets
+# GPU part: LM perplexity features and the encoder (install a PyTorch build for your GPU first;
+# an RTX 50xx needs CUDA 12.8 or newer: pip install torch --index-url https://download.pytorch.org/whl/cu128)
+# torch
+# transformers
+# accelerate
+# sentencepiece
+# Optional, no wheel for Python 3.14: works on Python <= 3.12
+# fasttext

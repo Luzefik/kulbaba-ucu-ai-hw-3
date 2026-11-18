@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+*.env
+.env
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+# competition data and run outputs
+ai-generated-text-detection-hw3-ucu-ai-2026/
+data/
+outputs/
