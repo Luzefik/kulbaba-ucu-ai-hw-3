@@ -11,6 +11,7 @@ lightgbm
 nltk
 joblib
 tqdm
+torch
 jupyter
 ipywidgets
 # GPU part: LM perplexity features and the encoder (install a PyTorch build for your GPU first;
